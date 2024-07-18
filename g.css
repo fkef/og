@@ -1,0 +1,41 @@
+.f{
+    width: 500px;
+}
+h1{text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+color: white}
+h2{text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white}
+html{background-color: #0a3711}
+
+#h{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-collapse: collapse;
+    width: 1000px;
+}
+#h td, #h th{
+    border:solid 1px green ;
+}
+#h tr:nth-child(even){
+    background-color: white;
+}
+#h tr:hover{
+    background-color: greenyellow;
+} 
+
+#h th{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+    background-color: white;
+    color: skyblue;
+}
+a:link  {
+    background-color: white;
+    color: white;
+    padding: 14px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
